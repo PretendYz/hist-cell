@@ -1,0 +1,192 @@
+{
+    "Liver": {
+        "coco/segm_mAP": 0.487,
+        "coco/segm_mAP_50": 0.709,
+        "coco/segm_mAP_75": 0.57,
+        "coco/segm_mAP_s": 0.481,
+        "coco/segm_mAP_m": 0.669,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.924763534380042,
+        "time": 1.5595449779344641
+    },
+    "Esophagus": {
+        "coco/segm_mAP": 0.37,
+        "coco/segm_mAP_50": 0.595,
+        "coco/segm_mAP_75": 0.402,
+        "coco/segm_mAP_s": 0.364,
+        "coco/segm_mAP_m": 0.539,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.2745400553657895,
+        "time": 0.7128294081914992
+    },
+    "Uterus": {
+        "coco/segm_mAP": 0.239,
+        "coco/segm_mAP_50": 0.419,
+        "coco/segm_mAP_75": 0.246,
+        "coco/segm_mAP_s": 0.238,
+        "coco/segm_mAP_m": 0.489,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.6331477039738705,
+        "time": 1.171418641742907
+    },
+    "Skin": {
+        "coco/segm_mAP": 0.51,
+        "coco/segm_mAP_50": 0.738,
+        "coco/segm_mAP_75": 0.601,
+        "coco/segm_mAP_s": 0.507,
+        "coco/segm_mAP_m": 0.612,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.6387002203199599,
+        "time": 1.185433268547058
+    },
+    "Testis": {
+        "coco/segm_mAP": 0.461,
+        "coco/segm_mAP_50": 0.725,
+        "coco/segm_mAP_75": 0.521,
+        "coco/segm_mAP_s": 0.445,
+        "coco/segm_mAP_m": 0.336,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.6050443272841605,
+        "time": 1.1361319767801386
+    },
+    "Bile-duct": {
+        "coco/segm_mAP": 0.516,
+        "coco/segm_mAP_50": 0.75,
+        "coco/segm_mAP_75": 0.599,
+        "coco/segm_mAP_s": 0.513,
+        "coco/segm_mAP_m": 0.647,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.2958513590005728,
+        "time": 0.7431019452901987
+    },
+    "Breast": {
+        "coco/segm_mAP": 0.426,
+        "coco/segm_mAP_50": 0.764,
+        "coco/segm_mAP_75": 0.435,
+        "coco/segm_mAP_s": 0.422,
+        "coco/segm_mAP_m": 0.326,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.05212423048521343,
+        "time": 0.43883236667566133
+    },
+    "Pancreatic": {
+        "coco/segm_mAP": 0.365,
+        "coco/segm_mAP_50": 0.609,
+        "coco/segm_mAP_75": 0.396,
+        "coco/segm_mAP_s": 0.369,
+        "coco/segm_mAP_m": 0.229,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.5451812176477342,
+        "time": 1.0532777082352411
+    },
+    "Cervix": {
+        "coco/segm_mAP": 0.364,
+        "coco/segm_mAP_50": 0.61,
+        "coco/segm_mAP_75": 0.425,
+        "coco/segm_mAP_s": 0.362,
+        "coco/segm_mAP_m": 0.392,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.47835515936215717,
+        "time": 0.9700421194235483
+    },
+    "Lung": {
+        "coco/segm_mAP": 0.256,
+        "coco/segm_mAP_50": 0.427,
+        "coco/segm_mAP_75": 0.273,
+        "coco/segm_mAP_s": 0.245,
+        "coco/segm_mAP_m": 0.426,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.6123019645088598,
+        "time": 1.148973866512901
+    },
+    "Prostate": {
+        "coco/segm_mAP": 0.423,
+        "coco/segm_mAP_50": 0.588,
+        "coco/segm_mAP_75": 0.487,
+        "coco/segm_mAP_s": 0.424,
+        "coco/segm_mAP_m": 0.641,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.642251173655192,
+        "time": 1.1827892197502985
+    },
+    "Ovarian": {
+        "coco/segm_mAP": 0.552,
+        "coco/segm_mAP_50": 0.847,
+        "coco/segm_mAP_75": 0.614,
+        "coco/segm_mAP_s": 0.538,
+        "coco/segm_mAP_m": 0.592,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.8015971819559733,
+        "time": 1.3760018507639566
+    },
+    "Adrenal": {
+        "coco/segm_mAP": 0.417,
+        "coco/segm_mAP_50": 0.588,
+        "coco/segm_mAP_75": 0.508,
+        "coco/segm_mAP_s": 0.413,
+        "coco/segm_mAP_m": 0.573,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.2735452651977539,
+        "time": 0.7085806244895572
+    },
+    "HeadNeck": {
+        "coco/segm_mAP": 0.485,
+        "coco/segm_mAP_50": 0.753,
+        "coco/segm_mAP_75": 0.556,
+        "coco/segm_mAP_s": 0.479,
+        "coco/segm_mAP_m": 0.734,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.35497965663671494,
+        "time": 0.820136085152626
+    },
+    "Colon": {
+        "coco/segm_mAP": 0.305,
+        "coco/segm_mAP_50": 0.555,
+        "coco/segm_mAP_75": 0.308,
+        "coco/segm_mAP_s": 0.296,
+        "coco/segm_mAP_m": 0.491,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.09448434860725713,
+        "time": 0.49201285548326446
+    },
+    "Kidney": {
+        "coco/segm_mAP": 0.408,
+        "coco/segm_mAP_50": 0.618,
+        "coco/segm_mAP_75": 0.474,
+        "coco/segm_mAP_s": 0.408,
+        "coco/segm_mAP_m": -1.0,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.8837666694934552,
+        "time": 1.4888235055483305
+    },
+    "Stomach": {
+        "coco/segm_mAP": 0.387,
+        "coco/segm_mAP_50": 0.587,
+        "coco/segm_mAP_75": 0.445,
+        "coco/segm_mAP_s": 0.383,
+        "coco/segm_mAP_m": 0.595,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.7574313322703043,
+        "time": 1.3316980838775634
+    },
+    "Bladder": {
+        "coco/segm_mAP": 0.622,
+        "coco/segm_mAP_50": 0.855,
+        "coco/segm_mAP_75": 0.739,
+        "coco/segm_mAP_s": 0.617,
+        "coco/segm_mAP_m": 0.86,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.8407831702913556,
+        "time": 1.433741671698434
+    },
+    "Thyroid": {
+        "coco/segm_mAP": 0.436,
+        "coco/segm_mAP_50": 0.63,
+        "coco/segm_mAP_75": 0.508,
+        "coco/segm_mAP_s": 0.42,
+        "coco/segm_mAP_m": 0.402,
+        "coco/segm_mAP_l": -1.0,
+        "data_time": 0.5502773956819014,
+        "time": 1.0623789592222734
+    }
+}
